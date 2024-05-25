@@ -1,0 +1,6 @@
+Bem-vindo ao repositório "Projetos-Python" de Humberto.
+
+Olá! Este é o lugar onde compartilho meus projetos em Python. Fique à vontade para explorar e usar o código como quiser. Espero que encontre algo útil por aqui!
+
+Divirta-se explorando,
+Humberto Fassa
